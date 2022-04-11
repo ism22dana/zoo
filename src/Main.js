@@ -32,7 +32,7 @@ const Main = () => {
               <h3>Игрушка для собак "Кость с шипами"</h3>
             </div>
             <div className="price-rating">
-              <h2>5990 тнг</h2>
+              <h2>3990 тнг</h2>
               <div className="rating">
                 <i class="fa fa-star"></i>
                 <i class="fa fa-star"></i>
@@ -53,7 +53,7 @@ const Main = () => {
               <h3>Игрушка для кошек "Мышь на пружине"</h3>
             </div>
             <div className="price-rating">
-              <h2>5990 тнг</h2>
+              <h2>3990 тнг</h2>
               <div className="rating">
                 <i class="fa fa-star"></i>
                 <i class="fa fa-star"></i>
@@ -74,7 +74,7 @@ const Main = () => {
               <h3>Игрушка для Кошек Маленькая Мышка</h3>
             </div>
             <div className="price-rating">
-              <h2>5990 тнг</h2>
+              <h2>990 тнг</h2>
               <div className="rating">
                 <i class="fa fa-star"></i>
                 <i class="fa fa-star"></i>
@@ -139,7 +139,7 @@ const Main = () => {
               <h3>Щетка-чесалка для кошек с креплением к стене</h3>
             </div>
             <div className="price-rating">
-              <h2>5990 тнг</h2>
+              <h2>4990 тнг</h2>
               <div className="rating">
                 <i class="fa fa-star"></i>
                 <i class="fa fa-star"></i>
