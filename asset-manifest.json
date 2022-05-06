@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ism22dana/zoo/static/css/main.2756c658.css",
+    "main.js": "/ism22dana/zoo/static/js/main.ea647854.js",
+    "static/js/787.93be1c4b.chunk.js": "/ism22dana/zoo/static/js/787.93be1c4b.chunk.js",
+    "static/media/4.jpg": "/ism22dana/zoo/static/media/4.d9da2fa29af273a32dc2.jpg",
+    "static/media/5.jpg": "/ism22dana/zoo/static/media/5.50861b7e31d56ba292c3.jpg",
+    "static/media/6.jpg": "/ism22dana/zoo/static/media/6.e3d536b2c0ea67b5ca74.jpg",
+    "static/media/1.jpg": "/ism22dana/zoo/static/media/1.96ad3b62f2bc4f8417d4.jpg",
+    "static/media/7.jpg": "/ism22dana/zoo/static/media/7.527b1708266bf91c314b.jpg",
+    "static/media/2.jpg": "/ism22dana/zoo/static/media/2.8bc7b1d4ccc5058107b6.jpg",
+    "static/media/3.jpg": "/ism22dana/zoo/static/media/3.ce4130e10d4d8c8354fc.jpg",
+    "static/media/8.jpg": "/ism22dana/zoo/static/media/8.569fd11084cd58f399a9.jpg",
+    "static/media/shop.svg": "/ism22dana/zoo/static/media/shop.14e3d95a9adb5f1c8924.svg",
+    "static/media/logo.svg": "/ism22dana/zoo/static/media/logo.d13a0838ab24b83b4599.svg",
+    "static/media/basket.svg": "/ism22dana/zoo/static/media/basket.57d894e77bce3760d3de.svg",
+    "index.html": "/ism22dana/zoo/index.html",
+    "static/media/search.svg": "/ism22dana/zoo/static/media/search.9b3b23939df0bf73e3dc.svg",
+    "main.2756c658.css.map": "/ism22dana/zoo/static/css/main.2756c658.css.map",
+    "main.ea647854.js.map": "/ism22dana/zoo/static/js/main.ea647854.js.map",
+    "787.93be1c4b.chunk.js.map": "/ism22dana/zoo/static/js/787.93be1c4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2756c658.css",
+    "static/js/main.ea647854.js"
+  ]
+}
